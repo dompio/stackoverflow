@@ -18,6 +18,7 @@
   ```
   cd stackoverflow
   ```
+There should be no additional libraries to run the code from this repository beyond the Anaconda distribution of Python. The code should run using Python 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
