@@ -11,38 +11,12 @@
 1. Clone the repository:
 
   ```bash
-  git clone https://github.com/your_username/project_name.git
+  git clone https://github.com/dompio/stackoverflow.git
   ```
 2. Navigate to the project directory:
 
   ```
   cd stackoverflow
-  ```
-
-3. Create a virtual environment:
-
-  ```
-  python3 -m venv env
-  ```
-
-4. Activate the virtual environment:
-
-  For Mac/Linux:
-  
-  ```
-  source env/bin/activate
-  ```
-
-  For Windows:
-
-  ```
-  .\env\Scripts\activate
-  ```
-
-5. Install the required packages:
-
-  ```
-  pip install -r requirements.txt
   ```
 
 ## Project Motivation<a name="motivation"></a>
@@ -54,8 +28,6 @@ In this project, I explored the following questions using Stack Overflow Annual 
 3. Is there any correlation between work experience and compensation?
 
 ## File Descriptions <a name="files"></a>
-
-`requirements.txt` file lists the required packages and their versions.
 
 `StackOverflow2023.ipynb` file contains the analysis.
 
