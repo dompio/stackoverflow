@@ -56,6 +56,7 @@ In this project, I explored the following questions using Stack Overflow Annual 
 ## File Descriptions <a name="files"></a>
 
 `requirements.txt` file lists the required packages and their versions.
+
 `StackOverflow2023.ipynb` file contains the analysis.
 
 ## Results<a name="results"></a>
