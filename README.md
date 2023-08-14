@@ -49,9 +49,9 @@
 
 In this project, I explored the following questions using Stack Overflow Annual Developer Survey data from 2023:
 
-1. What is the most common form of employment?
-2. 
-3. 
+1. What is the most common form of employment among the participants of the survey?
+2. What is the most lucrative developer type?
+3. Is there any correlation between work experience and compensation?
 
 ## File Descriptions <a name="files"></a>
 
@@ -59,7 +59,7 @@ In this project, I explored the following questions using Stack Overflow Annual 
 
 ## Results<a name="results"></a>
 
-The findings generated from the analysis can be found in a Medium post available [here](https://medium.com/).
+The findings generated from the analysis can be found in a Medium post available [here](https://medium.com/@dominikapiosik/how-do-the-developers-of-today-work-ff6230f860f8).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
